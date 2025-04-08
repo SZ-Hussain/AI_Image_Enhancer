@@ -8,7 +8,3 @@ const Loading = () => {
 }
 
 export default Loading
-
-
-
-// wx01yhjtpab20bxxz
